@@ -1,1 +1,2 @@
 version2
+https://github.com/pricing
